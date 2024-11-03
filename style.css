@@ -1,0 +1,20 @@
+
+ul{
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+        gap: 50px;
+        text-decoration: none;
+}
+li{
+    justify-content: space-between;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.header01{
+    display: flex;
+    justify-content: space-between;
+   
+}
